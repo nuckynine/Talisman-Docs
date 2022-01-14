@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['instance_0',['Instance',['../class_singleton.html#a54103e8475b2a352ee759d5732307534',1,'Singleton']]]
+  ['firstpersoncontroller_0',['FirstPersonController',['../class_talisman_1_1_player_control_1_1_first_person_controller.html',1,'Talisman::PlayerControl']]],
+  ['firstpersoncontroller_2ecs_1',['FirstPersonController.cs',['../_first_person_controller_8cs.html',1,'']]],
+  ['fixedupdate_2',['FixedUpdate',['../class_talisman_1_1_player_control_1_1_first_person_controller.html#ab75d645e5fe293b6b870861616b01e96',1,'Talisman::PlayerControl::FirstPersonController']]]
 ];

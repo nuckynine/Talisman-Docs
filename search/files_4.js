@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['singleton_2ecs_0',['Singleton.cs',['../_singleton_8cs.html',1,'']]]
+  ['gamemanager_2ecs_0',['GameManager.cs',['../_game_manager_8cs.html',1,'']]]
 ];

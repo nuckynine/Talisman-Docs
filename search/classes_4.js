@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['singleton_0',['Singleton',['../class_singleton.html',1,'']]]
+  ['gamemanager_0',['GameManager',['../class_game_manager.html',1,'']]]
 ];

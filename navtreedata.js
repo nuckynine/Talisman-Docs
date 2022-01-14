@@ -26,7 +26,11 @@ var NAVTREE =
 [
   [ "Talisman", "index.html", [
     [ "Packages", "namespaces.html", [
-      [ "Packages", "namespaces.html", "namespaces_dup" ]
+      [ "Packages", "namespaces.html", "namespaces_dup" ],
+      [ "Package Functions", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Enumerations", "namespacemembers_enum.html", null ]
+      ] ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
@@ -36,6 +40,7 @@ var NAVTREE =
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ],
+        [ "Properties", "functions_prop.html", null ],
         [ "Events", "functions_evnt.html", null ]
       ] ]
     ] ],
@@ -47,7 +52,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_die_roller_8cs.html"
+"_airborne_state_8cs.html",
+"class_talisman_1_1_player_control_1_1_movement_state.html#afb4f1552455a281535ca28b381be47b7"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
